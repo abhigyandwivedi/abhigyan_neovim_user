@@ -21,4 +21,7 @@ return {
     },
     cmd = { "TodoQuickFix" },
   },
+  {
+    "folke/tokyonight.nvim",
+  },
 }

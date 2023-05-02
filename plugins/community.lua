@@ -8,4 +8,7 @@ return {
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.toml" },
 }
